@@ -17,7 +17,7 @@
 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Vanhoai&style=flat-square&color=blue" alt="Viwer"/>
+    <img src="https://komarev.com/ghpvc/?username=Min-Solitude&style=flat-square&color=blue" alt="Viwer"/>
 </div>
 
 
@@ -47,9 +47,9 @@
 ---
 
 ### 🔥 My St🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vanhoai&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Min-Solitude&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanhoai&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Min-Solitude&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 - :zap⚡ to mak⚡file like me ? https://www.sitepoint.com/github-profile-readme/
 - :seedlin🌱ck🌱
