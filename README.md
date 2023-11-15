@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/bd/30/f0/bd30f0b54b812ac88403f72f2030f8cf.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -14,19 +14,13 @@
     </a>
 </div>
 
-
-
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Min-Solitude&style=flat-square&color=blue" alt="Viwer"/>
 </div>
 
-
-
 - ⚡ I’m working as a FullStack Blockchain
 
 - :see🌱loring Technical Content Writing.
-
-
 
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -42,6 +36,7 @@
 ---
 
 ### 🔥 My St🔥
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Min-Solitude&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Min-Solitude&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
