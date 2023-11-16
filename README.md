@@ -1,5 +1,5 @@
-<div id="header" align="center" style="width: 100%; height: 300px; border-radius: 3rem">
-  <img src="https://i.pinimg.com/564x/af/3c/55/af3c5581100ad9d2ea9be89a41af6cca.jpg" width="100%" height="100%" style="object-fit: cover;  border-radius: 3rem" />
+<div id="header" align="center" style="width: 100%; height: 250px; border-radius: 3rem">
+  <img src="https://e0.pxfuel.com/wallpapers/786/176/desktop-wallpaper-macbook-collage-in-2020-vintage-macbook-cute-aesthetic-collage-windows.jpg" width="100%" height="100%" style="object-fit: cover;  border-radius: 3rem" />
 </div>
 
 <div id="badges" align="center">
