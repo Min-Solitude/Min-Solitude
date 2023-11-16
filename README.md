@@ -1,5 +1,7 @@
+<link rel="stylesheet" href="styles.css">
+
 <div id="header" align="center" style="width: 100%; height: 250px; border-radius: 3rem">
-  <img src="https://e0.pxfuel.com/wallpapers/786/176/desktop-wallpaper-macbook-collage-in-2020-vintage-macbook-cute-aesthetic-collage-windows.jpg" width="100%" height="100%" style="object-fit: cover;  border-radius: 3rem" />
+  <img src="https://e0.pxfuel.com/wallpapers/786/176/desktop-wallpaper-macbook-collage-in-2020-vintage-macbook-cute-aesthetic-collage-windows.jpg" width="100%" height="100%" class='banner' />
 </div>
 
 <div id="badges" align="center">
