@@ -1,9 +1,5 @@
-<h1 align="center">
-    WELCOME
-</h1>
-
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/9c/8c/54/9c8c54da5b1f1fb50fcfd64ac3c2b366.jpg" width="100%" height="100%" />
+  <img src="https://e0.pxfuel.com/wallpapers/786/176/desktop-wallpaper-macbook-collage-in-2020-vintage-macbook-cute-aesthetic-collage-windows.jpg" width="100%" height="250px" />
 </div>
 
 <div id="badges" align="center">
