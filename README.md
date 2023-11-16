@@ -1,5 +1,5 @@
-<div id="header" align="center" height='200px'>
-  <img src="https://e0.pxfuel.com/wallpapers/786/176/desktop-wallpaper-macbook-collage-in-2020-vintage-macbook-cute-aesthetic-collage-windows.jpg" width="100%" height="100%" />
+<div id="header" align="center">
+  <img src="https://e0.pxfuel.com/wallpapers/786/176/desktop-wallpaper-macbook-collage-in-2020-vintage-macbook-cute-aesthetic-collage-windows.jpg" width="100%" height="250px" />
 </div>
 
 <div id="badges" align="center">
